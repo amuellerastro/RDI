@@ -36,5 +36,4 @@ Finding the reference
     -<id>_rdi_pca_pca_median_<xx>RandomFrames_<yy>Modes.fits <xx> random frames of <yy> modes (= number of reference images used) to create median combined image, it is a simple check if signal remains if only a subset of images were used 
     -<id>_rdi_pca_median_<x>Frames_<yy>Modes.fits here only every 2nd, 3rd, 4th, 5th frame were used to create a median combined cube for a specific number of modes, it is a simple check if signal remains if only a subset of images were used 
     -<id>_rdi_pca_median_<1st, 2nd>HalfFrames_<yy>Modes.fits median combined image for the 1st or 2nd half of the observations, it is a simple check if signal remains if only a subset of images were used 
-  
-# RDI
+
